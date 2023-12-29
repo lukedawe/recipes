@@ -23,4 +23,4 @@ Serves: 4
 
 This is for use with the Ninja Creami.
 
-You can replace this with any fruit, like a frozen [berry mix]().
+You can replace this with any fruit, like a frozen berry mix as in [Summer Berry Smoothie Bowl](Summer%20Berry%20Smoothie%20Bowl.md).

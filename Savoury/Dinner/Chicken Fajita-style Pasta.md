@@ -5,22 +5,22 @@ Serves: ~~4~~ 3
 - 2 tbsp olive oil
 - 2 large skinless chicken breasts, cut into strips
 - 1 onion, thinly sliced
-- ~~1~~ 2 red peppers, deseeded and sliced
+- 2 red peppers, deseeded and sliced
 - 1 yellow pepper, deseeded and sliced
 - 1 garlic clove, crushed
-- - ~~3~~ 5 tbsp tomato purée
-- ~~80~~ 150ml double cream
+- 5 tbsp tomato purée
+- 150ml double cream
 - 350g penne or rigatoni pasta
 - 1⁄2 small bunch of flat-leaf parsley, finely chopped
 - grated parmesan or cheddar, to serve
 
 ### Spices
 
-- ~~1⁄4~~ 1 tsp chili powder (maybe more depending on the spice of the chili powder)
-- ~~1~~ 3 ~~heaped~~ tsp sweet smoked paprika
-- ~~1⁄2~~ 1 tsp dried oregano
-- ~~1~~ 2 tsp ground coriander
-- ~~1⁄2~~ 1 tsp ground cumin
+- 1 tsp chili powder (maybe more depending on the spice of the chili powder)
+- 3 tsp sweet smoked paprika
+- 1 tsp dried oregano
+- 2 tsp ground coriander
+- 1 tsp ground cumin
 
 # Method
 

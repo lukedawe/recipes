@@ -2,7 +2,7 @@ Serves: 4 (probably 5 or 6; this is powerful stuff)
 
 ## Ingredients
 
-- 100g caster sugar
+- 125g caster sugar
 - 1tbsp golden syrup
 - 210ml hot water
 - 75ml lemon juice (if fresh then make sure to add an extra 25g of sugar)

@@ -14,7 +14,7 @@ Serves: 2
 
 - 4 cups cold cooked jasmine rice (21 ounces; 600g) or other medium- to long-grain rice (see note)
 - 2 tablespoons (30ml) neutral oil, such as canola or sunflower oil
-- 2 tablespoons (30ml) ~~kecap manis~~ or sambal manis (see note), plus more for drizzling
+- 2 tablespoons (30ml) sambal manis (see note), plus more for drizzling
 - 2 teaspoons (10ml) soy sauce
 - Kosher salt
 - Ground white pepper
@@ -36,11 +36,9 @@ Serves: 2
 ### Nasi Goreng
 
 1. If using day-old rice, transfer rice to a bowl and break rice up with your hands into individual grains.
-2. ~~Heat oil in a large wok or skillet over high heat until shimmering.~~ Add oil to a pan and add spice paste and cook, stirring constantly and scraping bottom of wok or pan to prevent paste from burning, until a pungent smell permeates your kitchen and paste turns a few shades darker, 2 to 3 minutes. Reduce heat to medium at any time if paste appears to be browning too quickly.
+2. Add oil to a pan and add spice paste and cook, stirring constantly and scraping bottom of wok or pan to prevent paste from burning, until a pungent smell permeates your kitchen and paste turns a few shades darker, 2 to 3 minutes. Reduce heat to medium at any time if paste appears to be browning too quickly.
 3. Add rice to wok and stir to coat with spice paste. Add kecap manis and soy sauce. Stir and cook until rice is evenly coloured and hot throughout. Season with salt and white pepper.
 4. Divide rice between two plates and top each plate of rice with a fried egg. Garnish with cucumber and tomato slices and shower with fried shallots, if you like. Serve immediately with kecap manis alongside for drizzling.
-
-  
 
 ## Notes
 
