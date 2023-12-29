@@ -3,7 +3,7 @@ Serves: 4
 
 ## Ingredients
 
-- - 2x vanilla pods / 2 tsp vanilla extract
+- 2x vanilla pods / 2 tsp vanilla extract
 - 18g cream cheese, softened
 - 150ml double cream
 - 55g caster sugar
