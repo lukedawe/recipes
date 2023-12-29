@@ -1,3 +1,4 @@
+Tags: #creami #ice-cream #dessert  
 Serves: 4
 
 ## Ingredients

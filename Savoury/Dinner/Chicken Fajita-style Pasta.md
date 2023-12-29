@@ -1,5 +1,6 @@
-[https://www.bbcgoodfood.com/recipes/fajita-style-pasta](https://www.bbcgoodfood.com/recipes/fajita-style-pasta)
-Serves: ~~4~~ 3
+Tags: #chicken #fajita #pasta #main  
+Source: [https://www.bbcgoodfood.com/recipes/fajita-style-pasta](https://www.bbcgoodfood.com/recipes/fajita-style-pasta)  
+Serves: 3
 ## Ingredients
 
 - 2 tbsp olive oil

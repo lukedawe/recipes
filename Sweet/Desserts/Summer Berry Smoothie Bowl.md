@@ -1,3 +1,4 @@
+Tags: #creami #smoothie #dessert   
 Serves: 4
 
 **THIS IS A WORK IN PROGRESS**

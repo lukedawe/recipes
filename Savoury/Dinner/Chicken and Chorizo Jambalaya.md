@@ -1,5 +1,5 @@
-[https://www.bbcgoodfood.com/recipes/chicken-chorizo-jambalaya](https://www.bbcgoodfood.com/recipes/chicken-chorizo-jambalaya)
-
+Tags: #chicken #chorizo #jambalaya #main  
+Source: [https://www.bbcgoodfood.com/recipes/chicken-chorizo-jambalaya](https://www.bbcgoodfood.com/recipes/chicken-chorizo-jambalaya)  
 Serves: 3
 ## Ingredients
 

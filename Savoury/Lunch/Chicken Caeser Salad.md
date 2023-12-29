@@ -1,4 +1,5 @@
-[https://www.hairybikers.com/recipes/view/chicken-caesar-salad](https://www.hairybikers.com/recipes/view/chicken-caesar-salad)
+Tags: #salad #chicken #main  
+Source: [https://www.hairybikers.com/recipes/view/chicken-caesar-salad](https://www.hairybikers.com/recipes/view/chicken-caesar-salad)  
 Serves: 2
 ## Ingredients
 

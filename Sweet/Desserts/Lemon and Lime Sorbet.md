@@ -1,3 +1,4 @@
+Tags: #creami #ice-cream #dessert  
 Serves: 4 (probably 5 or 6; this is powerful stuff)
 
 ## Ingredients

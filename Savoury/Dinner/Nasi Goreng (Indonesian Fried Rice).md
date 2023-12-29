@@ -1,18 +1,19 @@
-[https://www.seriouseats.com/nasi-goreng-recipe](https://www.seriouseats.com/nasi-goreng-recipe)
+Tags: #rice #vegetarian   #main  
+Source: [https://www.seriouseats.com/nasi-goreng-recipe](https://www.seriouseats.com/nasi-goreng-recipe)  
 Serves: 2
 
 ## Ingredients
 
 ### Spice Paste
 
-- 2 small shallots (2 ounces; 55g), roughly chopped
+- 2 small shallots (55g), roughly chopped
 - 3 medium cloves garlic
 - 1 large fresh green chile, such as Fresno or Holland, stemmed and seeded, or 1 teaspoon sambal oelek, such as Huy Fong (see note)
 - 1/2 teaspoon terasi (Indonesian shrimp paste), optional (see note)
 
 ### Nasi Goreng
 
-- 4 cups cold cooked jasmine rice (21 ounces; 600g) or other medium- to long-grain rice (see note)
+- 4 cups cold cooked jasmine rice (600g) or other medium- to long-grain rice (see note)
 - 2 tablespoons (30ml) neutral oil, such as canola or sunflower oil
 - 2 tablespoons (30ml) sambal manis (see note), plus more for drizzling
 - 2 teaspoons (10ml) soy sauce

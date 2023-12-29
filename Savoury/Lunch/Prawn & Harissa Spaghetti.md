@@ -1,4 +1,5 @@
-[https://www.bbcgoodfood.com/recipes/prawn-harissa-spaghetti](https://www.bbcgoodfood.com/recipes/prawn-harissa-spaghetti)
+Tags: #spaghetti #main #sea-food  
+Source: [https://www.bbcgoodfood.com/recipes/prawn-harissa-spaghetti](https://www.bbcgoodfood.com/recipes/prawn-harissa-spaghetti)  
 Serves: 2
 
 ## Ingredients

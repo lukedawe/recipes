@@ -1,6 +1,11 @@
-{{date}}
-
-[https://www.link-to-page.com/whatever](https://www.link-to-page.com/whatever)
+<!---
+The tags should include the course and the main ingredients
+There should be two spaces after each line to adhere to markdown newline rules, otherwise tags, source etc. will appear on the same line.
+-->
+Tags: #tags  
+Source: [https://www.link-to-page.com/whatever](https://www.link-to-page.com/whatever)  
+Serves: X  
+Date: {{date}}  
 Serves: X
 
 ## Ingredients
