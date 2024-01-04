@@ -15,8 +15,9 @@ Serves: 4
 1. Extract the seeds from the vanilla pods, then add to the cream in a pan. (Optionally, you can add the rest of the pod casing to the cream for part 2 as well, but remember to remove this when taking the cream off the heat).
 2. Heat the cream while stirring until just about to boil and then take off the heat. This will extract the flavour from the vanilla seeds.
 
+
 3. In a microwave-safe bowl, microwave the cream cheese for 10 seconds. Add the sugar and beat for 60 seconds until the mixture looks like frosting.
-4. Slowly mix in the vanilla double cream and milk until fully combined and sugar is dissolved.
+4. Slowly mix in the vanilla double cream (or vanilla and double cream if not using the vanilla pods) and milk until fully combined and sugar is dissolved.
 5. Pour the base into a Ninja tub and place in the freezer for at least 24 hours.
 6. Put the tub of frozen mixture into the Ninja and set to Ice Cream.
 
