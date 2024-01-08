@@ -28,5 +28,3 @@ Date: 04-01-2024
    *The third image helps demonstrate what it should look like after reducing the wine.*
 5. Add chicken stock and sugar, and stir to combine. Return sausage to pan, toss to combine, then return chicken pieces to pan skin side up, nestling them down among sauce, vegetables, and sausage.
 6. Transfer to oven and cook until chicken is crisp and tender, about 30 minutes. Serve immediately, spooning sauce, vegetables, and sausage around chicken pieces.
-
-## Notes

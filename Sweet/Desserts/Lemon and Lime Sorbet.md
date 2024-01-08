@@ -3,9 +3,9 @@ Serves: 4 (probably 5 or 6; this is powerful stuff)
 
 ## Ingredients
 
-- 125g caster sugar
+- 140g caster sugar
 - 1tbsp golden syrup
-- 210ml hot water
+- 240ml hot water
 - 75ml lemon juice (fresh will make it quite acidic)
 - 25ml lime juice
 
