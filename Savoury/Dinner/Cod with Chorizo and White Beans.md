@@ -1,6 +1,8 @@
 Tags: #fish #chorizo #beans #main  
 Source: [https://www.hairybikers.com/recipes/view/cod-with-chorizo-and-white-beans](https://www.hairybikers.com/recipes/view/cod-with-chorizo-and-white-beans)  
-Serves: 4
+Serves: 4  
+Time: 1h
+
 ## Ingredients
 
 - 1 tbsp olive oil

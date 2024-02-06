@@ -5,7 +5,9 @@ There should be two spaces after each line to adhere to markdown newline rules, 
 Tags: #tags  
 Source: [https://www.link-to-page.com/whatever](https://www.link-to-page.com/whatever)  
 Serves: X  
+Time: 1h
 Date: {{date}}  
+
 
 ## Ingredients
 

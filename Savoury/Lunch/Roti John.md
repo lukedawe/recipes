@@ -1,7 +1,7 @@
-Tags: #chicken #beef #sandwich #main 
-Source: [https://www.seriouseats.com/roti-john-malaysian-griddled-omelette-sandwich-8430704](https://www.seriouseats.com/roti-john-malaysian-griddled-omelette-sandwich-8430704)
-Serves: 4
-Time: 1h
+Tags: #chicken #beef #sandwich #main  
+Source: [https://www.seriouseats.com/roti-john-malaysian-griddled-omelette-sandwich-8430704](https://www.seriouseats.com/roti-john-malaysian-griddled-omelette-sandwich-8430704)  
+Serves: 4  
+Time: 1h  
 Date: 22-01-2024  
 
 ## Ingredients
@@ -61,4 +61,3 @@ Date: 22-01-2024
 ![](../../Attachments/kiz496nx.bmp)
 
 5. Once all the sandwiches are cooked, top either with lettuce, tomatoes, and chile sauce or about 1/4 cup coleslaw per sandwich (with optional chile sauce, if desired). Close buns and slice each roti John crosswise into 2 to 3 segments. Serve immediately for the freshest bite, or wrap in parchment paper and let stand before consuming within 2 hours (the sandwich and its fillings will soften somewhat but I like how the flavors meld). Reserve remaining coleslaw or chile sauce for another use.
-## Notes

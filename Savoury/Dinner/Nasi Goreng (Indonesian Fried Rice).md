@@ -1,4 +1,4 @@
-Tags: #rice #vegetarian   #main  
+Tags: #rice #vegetarian #main   
 Source: [https://www.seriouseats.com/nasi-goreng-recipe](https://www.seriouseats.com/nasi-goreng-recipe)  
 Serves: 2
 
