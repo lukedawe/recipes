@@ -1,4 +1,4 @@
-Tags: #chicken #noodles #ramen #beef   
+Tags: #chicken #noodles #ramen #beef #main   
 Source: [https://www.theflavorbender.com/easy-homemade-chicken-ramen/#recipe](https://www.theflavorbender.com/easy-homemade-chicken-ramen/#recipe)  
 Serves: 4  
 Time: 1h
