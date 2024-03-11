@@ -1,4 +1,4 @@
-Tags: #chicken #noodles #ramen #beef #main   
+%%  %%Tags: #chicken #noodles #ramen #beef #main   
 Source: [https://www.theflavorbender.com/easy-homemade-chicken-ramen/#recipe](https://www.theflavorbender.com/easy-homemade-chicken-ramen/#recipe)  
 Serves: 4  
 Time: 1h
@@ -8,7 +8,7 @@ Date: 12-02-2024
 
 ### Chicken marinade
 
-- 2 tbsp mirin
+- 2 tbsp mirin / rice wine vinegar
 - 1 tbsp dark soy sauce (or mushroom dark soy sauce) if you don't have this, you can substitute with light soy sauce
 - 2 tbsp light soy sauce
 - ¼ tsp cayenne pepper

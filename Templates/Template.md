@@ -8,7 +8,6 @@ Serves: X
 Time: 1h
 Date: {{date}}  
 
-
 ## Ingredients
 
 ### X part
