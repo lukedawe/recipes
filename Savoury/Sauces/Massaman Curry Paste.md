@@ -1,6 +1,6 @@
 Tags: #paste #sauce  
-Source: [https://www.link-to-page.com/whatever](https://www.link-to-page.com/whatever)  
-Serves: X  
+Source:  https://properfoodie.com/massaman-curry-paste/ 
+Serves: 4  
 Time: 1h
 Date: 25-03-2024  
 
