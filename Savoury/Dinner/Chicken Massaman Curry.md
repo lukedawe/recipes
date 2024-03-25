@@ -19,7 +19,7 @@ Date: 25-03-2024
 - 1 cinnamon stick
 - 8 to 10 boneless, skinless chicken thighs (about 3 pounds; 1.5kg), cut into large pieces
 - 1 1/2 pounds (700g) red or Marris Piper potatoes, cut into large chunks
-- 1/2 cup (75g) roasted unsalted peanuts
+- 1/2 cup (75g) roasted unsalted peanuts / cashews
 - 3 tablespoons (45ml) fresh juice from about 2 limes, plus lime wedges for garnish
 - Kosher salt, to taste
 - Steamed or boiled rice, for serving
