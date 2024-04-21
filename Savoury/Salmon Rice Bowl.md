@@ -1,4 +1,4 @@
-Tags: #salmon #rice #main  
+Tags: #salmon #rice #main #korean  
 Source: https://therecipecritic.com/salmon-rice-bowl/  
 Serves: 2  
 Time: 20 mins
