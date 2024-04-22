@@ -1,6 +1,14 @@
-Tags: #chicken #chorizo #jambalaya #main  
-Source: [https://www.bbcgoodfood.com/recipes/chicken-chorizo-jambalaya](https://www.bbcgoodfood.com/recipes/chicken-chorizo-jambalaya)  
-Serves: 3
+---
+tags:
+  - chicken
+  - chorizo
+  - jambalaya
+  - main
+  - american
+serves: 3
+time: 40
+---
+# Chicken and Chorizo Jambalaya
 ## Ingredients
 
 - 1 tbsp olive oil

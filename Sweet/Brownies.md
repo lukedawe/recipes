@@ -1,8 +1,13 @@
-Tags: #dessert #chocolate  
-Source: [https://www.bbcgoodfood.com/recipes/best-ever-chocolate-brownies-recipe](https://www.bbcgoodfood.com/recipes/best-ever-chocolate-brownies-recipe)  
-Serves: 8  
-Time: 1h
-Date: 12-02-2024  
+---
+tags:
+  - dessert
+  - chocolate
+serves: 8
+time: 60
+date: 2024-02-12
+source: https://www.bbcgoodfood.com/recipes/best-ever-chocolate-brownies-recipe
+---
+# Brownies
 
 ## Ingredients
 

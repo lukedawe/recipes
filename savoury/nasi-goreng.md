@@ -1,6 +1,15 @@
-Tags: #rice #vegetarian #main   
-Source: [https://www.seriouseats.com/nasi-goreng-recipe](https://www.seriouseats.com/nasi-goreng-recipe)  
-Serves: 2
+---
+tags:
+  - rice
+  - vegetarian
+  - main
+  - indonesian
+serves: 2
+source: https://www.seriouseats.com/nasi-goreng-recipe
+time: 20
+date: 2023-12-09
+---
+# Nasi Goreng (Indonesian Fried Rice)
 
 ## Ingredients
 

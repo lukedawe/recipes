@@ -1,5 +1,11 @@
-Tags: #creami #smoothie #dessert  
-Serves: 4
+---
+tags:
+  - creami
+  - smoothie
+serves: 4
+time: 10
+---
+# Tropical Smoothie Bowl
 
 ## Ingredients
 
@@ -24,4 +30,4 @@ Serves: 4
 
 This is for use with the Ninja Creami.
 
-You can replace this with any fruit, like a frozen berry mix as in [Summer Berry Smoothie Bowl](Summer%20Berry%20Smoothie%20Bowl.md).
+You can replace this with any fruit, like a frozen berry mix as in [summer-berry-smoothie-bowl](summer-berry-smoothie-bowl.md).

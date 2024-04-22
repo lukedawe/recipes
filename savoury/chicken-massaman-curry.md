@@ -1,15 +1,22 @@
-Tags: #chicken #curry #rice   
-Source: https://www.seriouseats.com/chicken-massaman-curry-wheat-beer-potatoes-recipe  
-Serves: 6  
-Time: 1h
-Date: 25-03-2024  
+---
+tags:
+  - chicken
+  - curry
+  - rice
+  - thai
+serves: 6
+time: 60
+date: 2024-03-25
+source: https://www.seriouseats.com/chicken-massaman-curry-wheat-beer-potatoes-recipe
+---
+# Chicken Massaman Curry
 
 ## Ingredients
 
 - 1 tablespoon (15ml) vegetable oil
 - 2 medium red onions (about 3/4 pound), cut pole to pole into 8 wedges each
 - 8 ounces massaman store-bought curry paste (about 1/2 cup; 300g)
-	- This can be replaced with Thai red curry paste with some other spices with [this recipe](../Sauces/Massaman%20Curry%20Paste.md) x 2.
+	- This can be replaced with Thai red curry paste with some other spices with [this recipe](sauces/massaman-curry-paste.md) x 2.
 - 1 (12-ounce; 355ml) bottle Belgian-style wheat beer
 - 1 (14-ounce) can unsweetened coconut milk
 - 3/4 cup (175ml) [homemade chicken stock](https://www.seriouseats.com/best-rich-easy-white-chicken-stock-recipe) or store-bought low-sodium chicken stock

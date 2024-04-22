@@ -1,6 +1,18 @@
+---
+tags:
+  - spaghetti
+  - main
+  - sea-food
+source: https://www.bbcgoodfood.com/recipes/prawn-harissa-spaghetti
+serves: 2
+time: 20
+date:
+---
 Tags: #spaghetti #main #sea-food  
 Source: [https://www.bbcgoodfood.com/recipes/prawn-harissa-spaghetti](https://www.bbcgoodfood.com/recipes/prawn-harissa-spaghetti)  
 Serves: 2
+
+# Prawn and Harissa Spaghetti
 
 ## Ingredients
 

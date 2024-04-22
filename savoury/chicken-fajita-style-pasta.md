@@ -1,6 +1,17 @@
-Tags: #chicken #fajita #pasta #main  
-Source: [https://www.bbcgoodfood.com/recipes/fajita-style-pasta](https://www.bbcgoodfood.com/recipes/fajita-style-pasta)  
-Serves: 3
+---
+tags:
+  - chicken
+  - fajita
+  - pasta
+  - main
+  - mexican
+serves: 3
+time: 20
+date: 2023-11-07
+source: https://www.bbcgoodfood.com/recipes/fajita-style-pasta
+---
+# Chicken Fajita-Style Pasta
+
 ## Ingredients
 
 - 2 tbsp olive oil

@@ -1,5 +1,12 @@
-Tags: #creami #ice-cream #dessert  
-Serves: 4 (probably 5 or 6; this is powerful stuff)
+---
+tags:
+  - creami
+  - ice-cream
+  - dessert
+  - sorbet
+serves: 6
+---
+# Lemon and Lime Sorbet
 
 ## Ingredients
 

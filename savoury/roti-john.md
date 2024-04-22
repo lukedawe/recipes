@@ -1,8 +1,15 @@
-Tags: #chicken #beef #sandwich #main  
-Source: [https://www.seriouseats.com/roti-john-malaysian-griddled-omelette-sandwich-8430704](https://www.seriouseats.com/roti-john-malaysian-griddled-omelette-sandwich-8430704)  
-Serves: 4  
-Time: 1h  
-Date: 22-01-2024  
+---
+tags:
+  - chicken
+  - beef
+  - sandwich
+  - main
+serves: 4
+source: https://www.seriouseats.com/roti-john-malaysian-griddled-omelette-sandwich-8430704
+time: 60
+date: 2024-01-22
+---
+# Roti John
 
 ## Ingredients
 
@@ -45,11 +52,11 @@ Date: 22-01-2024
 
 1. Using the large holes of a box grater, shred the carrot. Place the cabbage and carrot into a large colander set in the sink and toss with the sugar and salt. Allow vegetables to macerate (stand) for 5 minutes. Meanwhile, in a large bowl, thoroughly whisk together mayonnaise, apple cider vinegar, and black pepper.
 
-![](../../Attachments/2aij5gp5.bmp)
+![](../attachments/2aij5gp5.bmp)
 
 2. Rinse the cabbage and carrot under cold running water, then spin dry in a salad spinner. Transfer the vegetables to the large bowl with the mayonnaise dressing and toss to combine. (Note that this makes more slaw than you will need for the roti John; save the remainder to eat separately as desired.)
 
-![](../../Attachments/loyoiltc.bmp)
+![](../attachments/loyoiltc.bmp)
 
 ### Sandwich
 
@@ -58,6 +65,6 @@ Date: 22-01-2024
 3. Spread butter on cut sides of each bun. Working in batches, toast the buns in the nonstick skillet, butter side down, over medium heat until lightly browned, 2 to 3 minutes. Set aside.
 4. Wipe out the skillet. Heat 1 tablespoon oil in the pan over medium heat. Pour 1/4 of the omelette mixture into the pan and let cook, without stirring, for 10 seconds. Place one bun, toasted side down, into the egg mixture, then press bun lightly but firmly into eggs until egg sticks cohesively to the bun, about 20 seconds, while pushing the egg mixture towards the bread to prevent too much of an overhang. Allow omelette to continue to cook until browned, about 1 minute. Carefully insert a spatula between the egg and pan, then flip the whole thing over; using the spatula, flip any excessively overhanging omelette onto the bun. Toast top side of bun, checking often to prevent burning, 30 seconds to 1 minute. Remove Roti John from the pan and place on a wire rack set in a baking sheet. Repeat with remaining oil, omelette mixture, and toasted buns, wiping out skillet in between each sandwich.
 
-![](../../Attachments/kiz496nx.bmp)
+![](../attachments/kiz496nx.bmp)
 
 5. Once all the sandwiches are cooked, top either with lettuce, tomatoes, and chile sauce or about 1/4 cup coleslaw per sandwich (with optional chile sauce, if desired). Close buns and slice each roti John crosswise into 2 to 3 segments. Serve immediately for the freshest bite, or wrap in parchment paper and let stand before consuming within 2 hours (the sandwich and its fillings will soften somewhat but I like how the flavors meld). Reserve remaining coleslaw or chile sauce for another use.

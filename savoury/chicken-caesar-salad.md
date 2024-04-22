@@ -1,6 +1,15 @@
-Tags: #salad #chicken #main  
-Source: [https://www.hairybikers.com/recipes/view/chicken-caesar-salad](https://www.hairybikers.com/recipes/view/chicken-caesar-salad)  
-Serves: 2
+---
+tags:
+  - salad
+  - chicken
+  - main
+serves: 2
+time: 20
+date: 2023-11-06
+source: https://www.hairybikers.com/recipes/view/chicken-caesar-salad
+---
+# Chicken Caesar Salad 
+
 ## Ingredients
 
 ### Main Salad

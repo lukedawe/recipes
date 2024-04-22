@@ -1,7 +1,15 @@
-Tags: #main #chicken 
-Source: [https://www.seriouseats.com/chicken-scarpariello-sweet-and-sour-chicken-italian-recipe](https://www.seriouseats.com/chicken-scarpariello-sweet-and-sour-chicken-italian-recipe)
-Serves: 3
-Date: 04-01-2024  
+---
+tags:
+  - main
+  - chicken
+  - italian
+  - american
+source: https://www.seriouseats.com/chicken-scarpariello-sweet-and-sour-chicken-italian-recipe
+serves: 3
+time: 40
+date: 2024-01-04
+---
+# Chicken Scarpariello
 
 ## Ingredients
 
@@ -25,7 +33,7 @@ Date: 04-01-2024
 3. Return pan to heat, add onion and bell pepper, and cook, stirring and scraping up browned bits with a wooden spoon, until softened and starting to brown, about 4 minutes. Add sage and garlic, stir to combine, and cook until fragrant, about 1 minute.
 4. Add pickled cherry peppers and their liquid, stirring and scraping up browned bits from bottom of pan with a wooden spoon. Add wine and cook until liquid is reduced by half, about 2 minutes.
 
-   ![](../../Attachments/6mw6fkky.bmp)
+   ![](../attachments/6mw6fkky.bmp)
    
    *The third image helps demonstrate what it should look like after reducing the wine.*
 1. Add chicken stock and sugar, and stir to combine. Return sausage to pan, toss to combine, then return chicken pieces to pan skin side up, nestling them down among sauce, vegetables, and sausage.

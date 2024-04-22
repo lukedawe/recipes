@@ -1,6 +1,12 @@
-Tags: #creami #ice-cream #dessert  
-Serves: 4
-
+---
+tags:
+  - creami
+  - ice-cream
+  - dessert
+serves: 4
+time: 10
+---
+# Vanilla Ice Cream
 ## Ingredients
 
 - 2x vanilla pods / 2 tsp vanilla extract

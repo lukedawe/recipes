@@ -1,8 +1,16 @@
-Tags: #main #egg #vegetarian #mediteranian #tunisian   
-Source: https://www.themediterraneandish.com/shakshuka-recipe/#wprm-recipe-container-10706  
-Serves: 3  
-Time: 30m
-Date: 21-04-2024  
+---
+tags:
+  - main
+  - egg
+  - vegetarian
+  - mediteranian
+  - tunisian
+source: https://www.themediterraneandish.com/shakshuka-recipe/#wprm-recipe-container-10706
+time: 30
+date: 2024-04-21
+serves: 3
+---
+# Shashuka
 
 ## Ingredients
 

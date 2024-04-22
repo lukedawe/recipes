@@ -1,8 +1,15 @@
-Tags: #salmon #rice #main #korean  
-Source: https://therecipecritic.com/salmon-rice-bowl/  
-Serves: 2  
-Time: 20 mins
-Date: 27-03-2024  
+---
+tags:
+  - salmon
+  - rice
+  - main
+  - korean
+serves: 2
+time: 20
+date: 2024-03-27
+source: https://therecipecritic.com/salmon-rice-bowl/
+---
+# Salmon Rice Bowl
 
 ## Ingredients
 

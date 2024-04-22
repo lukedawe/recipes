@@ -1,8 +1,17 @@
-%%  %%Tags: #chicken #noodles #ramen #beef #main   
-Source: [https://www.theflavorbender.com/easy-homemade-chicken-ramen/#recipe](https://www.theflavorbender.com/easy-homemade-chicken-ramen/#recipe)  
-Serves: 4  
-Time: 1h
-Date: 12-02-2024  
+---
+tags:
+  - chicken
+  - noodles
+  - ramen
+  - beef
+  - main
+  - japanese
+serves: 4
+time: 60
+date: 2024-02-12
+source: https://www.theflavorbender.com/easy-homemade-chicken-ramen/#recipe
+---
+# Chicken Ramen
 
 ## Ingredients
 

@@ -1,8 +1,17 @@
-Tags: #main #beetroot #goats-cheese #rice #risotto  
-Source: [https://www.hairybikers.com/recipes/view/beetroot-and-goats-cheese-risotto](https://www.hairybikers.com/recipes/view/beetroot-and-goats-cheese-risotto)  
-Serves: 4  
-Time: 1h  
-Date: 06-02-2024  
+---
+tags:
+  - main
+  - beetroot
+  - goats-cheese
+  - rice
+  - risotto
+  - italian
+serves: 4
+time: 60
+source: https://www.hairybikers.com/recipes/view/beetroot-and-goats-cheese-risotto
+date: 2024-02-06
+---
+# Beetroot and Goats' Cheese Risotto
 
 ## Ingredients
 

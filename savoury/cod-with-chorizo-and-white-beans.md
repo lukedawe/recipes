@@ -1,7 +1,15 @@
-Tags: #fish #chorizo #beans #main  
-Source: [https://www.hairybikers.com/recipes/view/cod-with-chorizo-and-white-beans](https://www.hairybikers.com/recipes/view/cod-with-chorizo-and-white-beans)  
-Serves: 4  
-Time: 1h
+---
+tags:
+  - fish
+  - chorizo
+  - beans
+  - main
+serves: 4
+time: 60
+date: 2024-02-01
+source: https://www.hairybikers.com/recipes/view/cod-with-chorizo-and-white-beans
+---
+# Cod with Chorizo and White Beans
 
 ## Ingredients
 

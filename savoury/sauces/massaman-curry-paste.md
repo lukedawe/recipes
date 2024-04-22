@@ -1,8 +1,14 @@
-Tags: #paste #sauce  
-Source:  https://properfoodie.com/massaman-curry-paste/ 
-Serves: 4  
-Time: 1h
-Date: 25-03-2024  
+---
+tags:
+  - pasta
+  - sauce
+  - thai
+serves: 4
+time: 20
+date: 2024-03-25
+source: https://properfoodie.com/massaman-curry-paste/
+---
+# Massaman Curry Paste
 
 ## Ingredients
 

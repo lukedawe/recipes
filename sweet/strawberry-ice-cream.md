@@ -1,7 +1,13 @@
-Tags: #ice-cream #strawberry #dessert   
-Serves: 5  
-Time: 10m
-Date: 11-03-2024  
+---
+tags:
+  - ice-cream
+  - strawberry
+  - dessert
+serves: 5
+time: 10
+date: 2024-03-11
+---
+# Strawberry Ice Cream
 
 ## Ingredients
 

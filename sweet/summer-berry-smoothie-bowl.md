@@ -1,7 +1,12 @@
-Tags: #creami #smoothie #dessert   
-Serves: 4
-
+---
+tags:
+  - creami
+  - smoothie
+serves: 4
+---
 **THIS IS A WORK IN PROGRESS**
+
+# Summer Berry Smoothie Bowl
 
 ## Ingredients
 

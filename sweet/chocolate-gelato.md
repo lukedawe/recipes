@@ -1,7 +1,14 @@
-Tags: #ice-cream #chocolate #creami #dessert    
-Serves: 5  
-Time: 20m
-Date: 11-03-2024  
+---
+tags:
+  - ice-cream
+  - chocolate
+  - creami
+  - dessert
+serves: 5
+time: 20
+date: 2024-03-11
+---
+# Chocolate Gelato
 
 ## Ingredients
 
