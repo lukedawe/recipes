@@ -1,7 +1,7 @@
 ---
 tags:
   - creami
-  - smoothie
+  - smoothie-bowl
 serves: 4
 time: 10
 ---
