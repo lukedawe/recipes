@@ -42,4 +42,6 @@ source: https://www.bbcgoodfood.com/recipes/fajita-style-pasta
 
 ## Notes
 
-You could also add more peppers and onions because there doesn't seem to be much veg for the amount of pasta.
+More peppers and onions could be added because there doesn't seem to be much veg for the amount of pasta.
+
+This [fajita-spice-mix](sauces/fajita-spice-mix.md) could be used instead of the spices noted.

@@ -14,14 +14,13 @@ source: https://cafedelites.com/garlic-butter-shrimp-scampi/
 
 - 2 Tablespoons olive oil
 - 4 tablespoons butter
-- 4-5 large garlic cloves, minced (or 1 1/2 tablespoons minced garlic)
-- 600 grams large shrimp prawns, shelled with tails on or off
+- 4-5 large garlic cloves, minced (or 1 ½ tablespoons minced garlic)
+- 600g large shrimp prawns, shelled with tails on or off
 - Salt and fresh ground black pepper to taste
-- 1/4 cup dry white wine or broth
-- 1/2-1 teaspoon crushed red pepper flakes / cayenne pepper (optional)
+- ¼ cup dry white wine or broth
+- ½-1 teaspoon crushed red pepper flakes / cayenne pepper (optional)
 - 2 tablespoons lemon juice
-- 1/4 cup chopped parsley
-
+- ¼ cup chopped parsley
 
 ## Method
 
