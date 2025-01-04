@@ -15,7 +15,8 @@ source: https://www.hairybikers.com/recipes/view/cod-with-chorizo-and-white-bean
 
 - 1 tbsp olive oil
 - 150g cooking chorizo, thinly sliced
-- 1 red onion, thinly sliced1 red pepper
+- 1 red onion, thinly sliced
+- 1 red pepper
 - 250g white cabbage, shredded
 - 3 garlic cloves, finely chopped
 - 1 tsp dried thyme
